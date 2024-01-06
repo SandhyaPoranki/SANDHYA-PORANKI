@@ -1,4 +1,3 @@
-https://github.com/SandhyaPoranki/SANDHYA-PORANKI/blob/main/coding.gif
 
 
 <h1 align="center">Hi 👋, I'm SANDHYA PORANKI</h1>
